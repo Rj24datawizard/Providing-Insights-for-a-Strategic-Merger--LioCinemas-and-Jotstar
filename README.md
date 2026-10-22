@@ -60,3 +60,25 @@ PAGE 4:****Subscribers Trend Analysis****
 ****8. Key insights and findings****
 
 
+
+***DASHBOARD LINK***
+
+https://app.powerbi.com/view?r=eyJrIjoiZjEyNTYyMjMtZWQ5NS00MmI2LTk2MjItN2U5Nzk5YzBmYzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=23a1521d34455775d385
+
+
+
+This project was submitted for Codebasics Resume Challenge
+
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7312541215269220354/
+
+
+https://github.com/user-attachments/assets/394e65c7-f822-4ccd-b28d-fd56842657fc
+
+
+
+
+
+
+
+
+
