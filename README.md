@@ -1,10 +1,14 @@
-**1. Business problem statement**
 
 **Company :** LioCinema and Jotstar
 
 **Problem :** Both the companies decide for a strategic merger but before combining the platforms, management needs to understand how each platform performs and how its users behave.
 
-**Why is Data Analysis Needed:** Data Analysis is needed to understand their individual performance based on which we can combine their strength to create a stronger OTT business
+**Why is Data Analysis Needed:** 
+My OTT Merger Analysis project is primarily a descriptive analytics project, built using Power BI to compare LioCinema and Jotstar and evaluate their performance ahead of a proposed merger.
+
+I analyzed subscriber behavior, content consumption, engagement, inactivity, and subscription movement to identify business patterns and opportunities. I also used diagnostic analysis to investigate differences across subscriber segments and translated the findings into actionable recommendations for the combined platform's growth and retention strategy.
+The goal was not just to visualize data, but to help stakeholders understand the business situation and make better-informed merger decisions.
+
 
 ****
 🎯 **Project objectives**  
