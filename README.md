@@ -71,50 +71,38 @@ Explore the different stages of the analysis:
 
 ## 📂 03. Dataset & Data Understanding
 
-This stage focuses on understanding the available datasets, their structure, business attributes, and relevance to the merger analysis.
-
+I received the source data in SQL Files and I used MySQl Workbench to check and analyze the raw data.
 **Areas explored:**
 - Subscriber information and demographics.
 - Subscription plans and movement.
 - Content library and categories.
 - Viewing behaviour and engagement.
 - Device preferences and inactivity patterns.
+  
+<img width="1481" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5a6d12-5d95-4547-9038-90e346ce82c9" />
 
-> Add your dataset source, file names, row counts and key columns here.
-
----
 
 ## 🧹 04. Data Cleaning & Preparation
 
-Data preparation ensures that the information used for analysis is accurate, consistent and suitable for reporting.
+I checked for data Quality and Consistency.
+Duplicate records checked
+Missing Records Checked
+Checked the data types and formats
+All the transformations in Power Query has been renamed for easy identification of the work done
 
-**Key activities:**
-- Understanding the source data structure.
-- Checking data quality and consistency.
-- Handling missing and duplicate records.
-- Standardizing data types and formats.
-- Preparing datasets for analytical modelling.
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/c9c237b0-443e-4aef-b12c-21dad118bdc7" />
 
-> Add the specific transformations and Power Query steps performed in your project.
-
----
 
 ## ⚙️ 05. Technical Implementation
 
-| Technology | Purpose |
-|:---|:---|
-| Power BI Desktop | Data modelling, DAX and dashboard development |
-| Power Query | Data cleaning and transformation |
-| DAX | Measures, calculations and business KPIs |
-| SQL | Data retrieval and querying |
+I used Power Query for initial data cleaning and transformation 
+Used SQL for cross verifying the data values and also to retrieve the source data in Power BI
+DAX - measures, calculated columns and calculated tables created wherever necessary
 
----
 
 ## 🏗️ 06. Data Modelling & Calculations
 
-A structured data model helps establish relationships between datasets and supports accurate calculations across different business dimensions.
-
-The model forms the foundation for analysing subscriber behaviour, platform performance and content consumption.
+Fact tables linked to the DIM tables , Key Measures were grouped together for easy learning
 
 <div align="center">
 
@@ -128,11 +116,19 @@ The model forms the foundation for analysing subscriber behaviour, platform perf
 
 ## 📊 07. Dashboard & Visualizations
 
+I created an Overview page so my end users can have a rough idea of the current data in hand for both the platforms.
+
+Then I created a
+Page 1: Home page -The landing page provides an overview of the analysis and helps stakeholders navigate the report.
+Page 2: Content Library Analysis page- to explore the content libraries and compares the platforms across relevant content characteristics.
+Page 3:Subscriber Insights: This will give an idea into the audience patterns across the two platforms.
+Page 4: Subscriber Trend Analysis: Examines subscriber trends and subscription movement to understand platform performance over time.
+
+
+
 Explore the four dashboard pages developed to provide stakeholders with a consolidated view of platform performance.
 
 ### 🏠 PAGE 01 — Home Page
-
-The landing page provides an overview of the analysis and helps stakeholders navigate the report.
 
 <div align="center">
 
@@ -142,8 +138,6 @@ The landing page provides an overview of the analysis and helps stakeholders nav
 
 ### 🎬 PAGE 02 — Content Library Analysis
 
-Explores the content libraries and compares the platforms across relevant content characteristics.
-
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/63eed646-a9a3-4207-8231-8e7b407018cf" width="85%" alt="Content Library Analysis"/>
@@ -151,8 +145,6 @@ Explores the content libraries and compares the platforms across relevant conten
 </div>
 
 ### 👥 PAGE 03 — Subscriber Insights
-
-Provides a view of subscriber characteristics and audience patterns across the two platforms.
 
 <div align="center">
 
