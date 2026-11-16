@@ -1,17 +1,15 @@
-# 🎬 OTT MERGER ANALYSIS | LIOCINEMA × JOTSTAR
 
-<div align="center">
+This was the Logo generated for my project 
+
+<img width="536" height="333" alt="image" src="https://github.com/user-attachments/assets/746fec37-e580-4072-a3e2-08a8f717f68a" />
+
+
+
+# 🎬 OTT MERGER ANALYSIS | LIOCINEMA × JOTSTAR
 
 ### A Strategic Business Intelligence Case Study
 
 **Evaluating platform performance, subscriber behaviour and growth opportunities ahead of a proposed OTT merger.**
-
-<br>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-Descriptive%20%7C%20Diagnostic-7B61FF?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Data%20Preparation-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Project-Completed-20A67A?style=for-the-badge)
 
 <br>
 
@@ -29,15 +27,12 @@
 
 Both companies have decided to pursue a strategic merger. Before bringing their platforms together, management needs to understand how each business performs, how subscribers behave, and where opportunities for growth exist.
 
-### 💡 Why is Data Analysis Needed?
 
-This OTT Merger Analysis project is primarily a **descriptive analytics project**, developed using Power BI to compare LioCinema and Jotstar and evaluate their performance ahead of the proposed merger.
+### 💡 Why is Data Analysis Needed for this problem?
 
-I analysed subscriber behaviour, content consumption, engagement, inactivity, and subscription movement to identify business patterns and opportunities.
+This OTT Merger Analysis project is primarily a **descriptive analytics project**.
 
-I also applied diagnostic analysis to investigate differences across subscriber segments and translated the findings into actionable recommendations for the combined platform's growth and retention strategy.
-
-**The objective was not simply to visualize data, but to help stakeholders understand the business situation and make better-informed merger decisions.**
+**The objective was to help stakeholders understand the business situation and make better-informed merger decisions.**
 
 ---
 
@@ -55,29 +50,27 @@ I also applied diagnostic analysis to investigate differences across subscriber 
 
 ---
 
-## 🧭 Project Navigation
-
-Explore the different stages of the analysis:
-
-- [Dataset & Data Understanding](#-03-dataset--data-understanding)
-- [Data Cleaning & Preparation](#-04-data-cleaning--preparation)
-- [Technical Implementation](#-05-technical-implementation)
-- [Data Modelling & Calculations](#-06-data-modelling--calculations)
-- [Dashboard & Visualizations](#-07-dashboard--visualizations)
-- [Key Insights & Findings](#-08-key-insights--findings)
-- [Strategic Recommendations](#-09-strategic-recommendations)
-
----
-
 ## 📂 03. Dataset & Data Understanding
 
 I received the source data in SQL Files and I used MySQl Workbench to check and analyze the raw data.
 **Areas explored:**
-- Subscriber information and demographics.
-- Subscription plans and movement.
-- Content library and categories.
-- Viewing behaviour and engagement.
-- Device preferences and inactivity patterns.
+
+| 🎬 Content Library |
+Total 3610 Contents - 65% content is from Jotstar and 35% from LioCinemas
+
+| 👥 Subscribers | 
+80% Subscribers from LioCinemas and the 20% from Jotstar
+
+| 💤 Inactivity | 
+45% of LioCinema Users are inactive and 15% from Jotstar
+
+| 💳 Subscription | 
+Around 57% of LioCinemas use the Free version , but Jotstar most of the users prefer to pay Rs.159/- and subscribe to the VIP option to watch the content.
+
+| 📱 Engagement |
+Mobile is the most preferred for OTT consumption which is 40% of users use
+
+
   
 <img width="1481" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5a6d12-5d95-4547-9038-90e346ce82c9" />
 
@@ -166,19 +159,12 @@ Examines subscriber trends and subscription movement to understand platform perf
 
 ## 🔍 08. Key Insights & Findings
 
-The analysis focuses on identifying meaningful differences between the two platforms and understanding the underlying business patterns.
 
-**Key areas of investigation:**
 
-- Subscriber growth and demographic distribution.
-- Content consumption and engagement patterns.
-- Inactive subscriber behaviour.
-- Subscription upgrades and downgrades.
-- Device preferences and viewing behaviour.
 
-> **Add your actual findings here.** Ideally, include 4–6 quantified insights supported by your dashboard, explaining what each finding means for the merger.
 
----
+
+
 
 ## 🚀 09. Strategic Recommendations
 
@@ -192,7 +178,12 @@ Potential areas for strategic action include:
 - **Audience Engagement:** Use subscriber preferences to develop more personalized experiences.
 - **Platform Growth:** Leverage complementary strengths of both platforms to support long-term growth.
 
----
+### Additional data I'd recommend collecting:
+
+1) Identifying user preference of content interest, languages preferred and genres
+2) Understanding the pain points of navigating through the Application and selecting the content they want to watch( For eg: Audio search improves their search possibilities)
+3) Gender wise preferences of Languages
+4) Their preferred time to watch Day/Night, Weekday/Weekend
 
 ## 🔗 10. Explore the Project
 
