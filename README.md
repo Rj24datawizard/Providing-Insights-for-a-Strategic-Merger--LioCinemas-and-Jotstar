@@ -53,7 +53,11 @@ This OTT Merger Analysis project is primarily a **descriptive analytics project*
 ## 📂 03. Dataset & Data Understanding
 
 I received the source data in SQL Files and I used MySQl Workbench to check and analyze the raw data.
-**Areas explored:**
+
+<img width="1481" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5a6d12-5d95-4547-9038-90e346ce82c9" />
+
+
+## 🔍 Preliminary Findings and Data Understanding
 
 | 🎬 Content Library |
 Total 3610 Contents - 65% content is from Jotstar and 35% from LioCinemas
@@ -69,11 +73,6 @@ Around 57% of LioCinemas use the Free version , but Jotstar most of the users pr
 
 | 📱 Engagement |
 Mobile is the most preferred for OTT consumption which is 40% of users use
-
-
-  
-<img width="1481" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5a6d12-5d95-4547-9038-90e346ce82c9" />
-
 
 ## 🧹 04. Data Cleaning & Preparation
 
@@ -159,24 +158,28 @@ Examines subscriber trends and subscription movement to understand platform perf
 
 ## 🔍 08. Key Insights & Findings
 
-
-
-
+1) Jotstar has additional languages when compared to LioCinemas
+2)Drama and Action are top genres
+3)Jotstar has 800 contents in English
+4)Movies has the highest content available
+5) 25-34 age group is more active in Jotstar and 18-24 in LioCinemas
+6) Tier 1 cities have the most subscribers in Jotstar while Tier 3 has the most in LioCinemas
 
 
 
 
 ## 🚀 09. Strategic Recommendations
 
-The analytical findings can help management identify opportunities across the combined OTT platform.
+Improve Subscriber Retention: With around 39% of subscribers inactive, introduce targeted re-engagement campaigns, personalized content suggestions and offers to encourage inactive users to return.
 
-Potential areas for strategic action include:
+Strengthen the Content Library: Combine both platforms' content libraries and identify gaps in regional languages and genres. Focus on acquiring content that can attract new audiences and improve engagement.
 
-- **Subscriber Retention:** Develop targeted retention strategies for inactive and at-risk subscribers.
-- **Content Strategy:** Identify content categories and viewing patterns that can guide content investment.
-- **Subscription Optimization:** Evaluate upgrade and downgrade behaviour to improve subscription offerings.
-- **Audience Engagement:** Use subscriber preferences to develop more personalized experiences.
-- **Platform Growth:** Leverage complementary strengths of both platforms to support long-term growth.
+Reduce Subscription Downgrades:Review pricing, plan benefits and content accessibility to improve subscriber retention.
+
+Improve Regional Engagement: Focus on improving engagement in Tier 2 and Tier 3 cities, particularly on LioCinema. Explore regional content, affordable subscription options and targeted campaigns based on local audience preferences.
+
+Learn from Successful Subscription Strategies: Jotstar has a considerably higher upgrade rate than LioCinema. Study its subscription offerings and conversion patterns to identify strategies that could also work for LioCinema.
+
 
 ### Additional data I'd recommend collecting:
 
