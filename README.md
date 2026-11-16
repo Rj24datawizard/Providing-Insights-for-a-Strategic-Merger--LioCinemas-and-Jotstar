@@ -192,7 +192,7 @@ Learn from Successful Subscription Strategies: Jotstar has a considerably higher
 
 <div align="center">
 
-### Ready to explore the analysis?
+
 
 [![Power BI Dashboard](https://img.shields.io/badge/OPEN%20POWER%20BI%20DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZjEyNTYyMjMtZWQ5NS00MmI2LTk2MjItN2U5Nzk5YzBmYzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=23a1521d34455775d385)
 
@@ -204,14 +204,4 @@ Learn from Successful Subscription Strategies: Jotstar has a considerably higher
 
 **Project Category:** Business Intelligence | OTT Analytics | Strategic Merger Analysis
 
----
 
-<div align="center">
-
-### 💜 Turning Data Into Business Decisions
-
-*This project demonstrates how business intelligence and analytical thinking can support strategic decision-making.*
-
-**Thank you for exploring my project!**
-
-</div>
